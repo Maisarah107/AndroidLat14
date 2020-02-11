@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etInput" type="id">Input</item>
+    <item name="tvResult" type="id">Result</item>
+    <item name="btLoad" type="id">Load</item>
+    <item name="btSave" type="id">Save</item>
+</resources>
